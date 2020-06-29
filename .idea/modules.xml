@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dd-framework-common/dd-framework-common.iml" filepath="$PROJECT_DIR$/dd-framework-common/dd-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-microservice-edu/dd-microservice-edu.iml" filepath="$PROJECT_DIR$/dd-microservice-edu/dd-microservice-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dd-video.iml" filepath="$PROJECT_DIR$/.idea/dd-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-video-parent/dd-video-parent.iml" filepath="$PROJECT_DIR$/dd-video-parent/dd-video-parent.iml" />
+    </modules>
+  </component>
+</project>
